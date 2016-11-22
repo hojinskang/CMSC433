@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC433
+#  Project Project 2: Ratsie's Simulation
+
+courseName=CMSC433
+semester=201401
+projectNumber=Project 2
+courseKey=4d770c9c5c8280d7
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2014
+submitURL=https://submit.cs.umd.edu:443/spring2014/eclipse/SubmitProjectViaEclipse
